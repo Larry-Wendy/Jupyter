@@ -14,4 +14,3 @@
 
 <img src="https://github.com/Larry-Wendy/Jupyter/blob/main/Gif/Kapture%202022-09-22%20at%2000.34.50.gif" width="700" height="450"/>
 
-* The website may be disabled because developer has shutted down the AWS RDS, which could cost a great amount of money.
